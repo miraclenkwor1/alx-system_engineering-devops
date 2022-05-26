@@ -1,2 +1,2 @@
-My first readme shell permissions
+my first readme
 0-iam_betty; switches the current user to the user betty
