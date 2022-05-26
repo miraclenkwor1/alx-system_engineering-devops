@@ -1,1 +1,1 @@
-My first readme shell basics
+Shell permissions tasks
